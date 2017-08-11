@@ -1,0 +1,24 @@
+h1 {
+  text-align: center;
+  font-size:50px;
+color:		#03396c;
+font-family:  'Carme', sans-serif;
+padding-top: 30px;
+ padding-right: 30px;
+ padding-bottom: 30px;
+ padding-left: 50px;
+}
+
+h3 {
+  text-align: center;
+  font-size:30px;
+color:		#6497b1;
+font-family: 'Inconsolata', monospace;;
+}
+
+p {
+  text-align: center;
+  font-size:15px;
+  color:	#34495E  ;
+  font-family: 'Inconsolata', monospace;
+}
