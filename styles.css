@@ -18,7 +18,15 @@ font-family: 'Inconsolata', monospace;;
 
 p {
   text-align: center;
-  font-size:15px;
-  color:	#34495E  ;
+  font-size:30px;
+  color:	##2196f3 ;
   font-family: 'Inconsolata', monospace;
 }
+h2 {
+  text-align: center;
+  font-size:50px;
+color:		#03396c;
+font-family:  'Carme', sans-serif;
+}
+
+
